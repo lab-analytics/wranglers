@@ -123,10 +123,12 @@ _out
 
 # Untitled
 Untitled.*
-untitled.*
 
 #notebooks
 .ipynb_checkpoints/
 
 #tmp
 _tmp/
+dask-worker-space/dask-worker-space/purge.lock
+dask-worker-space/dask-worker-space/global.lock
+Untitled.ipynb
